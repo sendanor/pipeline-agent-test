@@ -1,2 +1,3 @@
 # pipeline-agent-test
-Private repository for Pipeline Agent tests
+
+Repository for sample pipeline processor
